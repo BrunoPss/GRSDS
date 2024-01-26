@@ -1,0 +1,8 @@
+{
+  "model_name": "GRS_V6m",
+  "train_epochs": "150",
+  "train_IMG_size": "640",
+  "precision": "86.3%",
+  "recall": "85.9%",
+  "mAP": "89%"
+}
